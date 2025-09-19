@@ -29,13 +29,12 @@ app1/
 ```bash
 git clone https://github.com/Abhiraj-ux/app1.git
 cd app1
+
 ### 2. Backend Setup
 python -m venv venv          # Create virtual environment
 # Activate virtual environment
 # Windows
 venv\Scripts\activate
-# Linux/Mac
-source venv/bin/activate
 pip install -r requirements.txt  # Install dependencies
 cd backend
 python app.py                    # Run backend server
