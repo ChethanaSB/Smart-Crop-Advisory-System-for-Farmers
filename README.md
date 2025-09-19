@@ -16,6 +16,7 @@ app1/
 ├── .gitignore # Ignored files/folders
 └── README.md # Project documentation
 
+
 ## Features
 - Crop prediction using ML models  
 - Interactive chatbot for farmers  
