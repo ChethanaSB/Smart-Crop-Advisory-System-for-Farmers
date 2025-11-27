@@ -6,16 +6,16 @@
 This project is a **Smart Crop Advisory System** designed to help small and marginal farmers make informed decisions about crops.  
 It combines **machine learning models** in the backend with a **React-based frontend**, including a chatbot interface.
 
-## Folder Structure
+```
 app1/
-├── backend/ # Backend code and ML models
-├── frontend1/ # React frontend
-│ └── FarmerChatBot/ # Chatbot interface
-├── requirements.txt # Python dependencies
-├── package.json # React frontend dependencies
-├── .gitignore # Ignored files/folders
-└── README.md # Project documentation
-
+├── backend/
+├── frontend1/
+│   └── FarmerChatBot/
+├── requirements.txt
+├── package.json
+├── .gitignore
+└── README.md
+```
 
 ## Features
 - Crop prediction using ML models  
