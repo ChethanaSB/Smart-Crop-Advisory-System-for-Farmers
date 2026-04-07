@@ -27,7 +27,7 @@ app1/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Abhiraj-ux/app1.git
+git clone https://github.com/ChethanaSB/app1.git
 cd app1
 
 ### 2. Backend Setup
