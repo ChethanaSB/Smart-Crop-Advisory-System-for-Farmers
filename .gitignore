@@ -9,6 +9,8 @@ backend/crop_model/venv/
 venv/
 .env/
 .venv/
+.env
+**/.env
 
 # Ignore datasets or large files
 *.csv
