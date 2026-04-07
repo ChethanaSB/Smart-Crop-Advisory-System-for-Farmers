@@ -27,7 +27,7 @@ app1/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ChethanaSB/app1.git
+git clone https://github.com/ChethanaSB/Smart-Crop-Advisory-System-for-Farmers.git
 cd app1
 
 ### 2. Backend Setup
